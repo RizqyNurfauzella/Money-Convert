@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyConvert</string>
+    <string name="tentang_aplikasi">About Aplication</string>
+    <string name="copyright">MoneyConvert is an application that allows you to convert currencies, and calculate the total amount of currency after taxes have been applied.
+         \n\nMoneyConvert makes it easy to calculate currency exchange rates.
+         \n\nThis application was created to help users make currency conversions quickly and easily.
+         \n\nCopyright © 2024 Rizqy Nurfauzella. All right reserved.</string>
+    <string name="kembali">Back</string>
+
+    <string name="konversi_intro">Currency Conversion</string>
+    <string name="label_intro">Conversion Options</string>
+    <string name="label_drop">Select Currency Conversion Option</string>
+
+    <string name="nominal_rupiah">Rupiah nominal</string>
+    <string name="pajak_intro">Tax rate</string>
+    <string name="pajak_persen">Nominal Tax Percentage</string>
+    <string name="konversi">Conversion</string>
+
+    <string name="hasil_konversi">Conversion Results: %1$s%2$.2f</string>
+
+    <string name="input_invalid">Invalid input</string>
+    <string name="reset">Reset</string>
+    <string name="share">Share</string>
+    <string name="share_template">Conversion Result: %1$s%2$.2f</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyConvert</string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">MoneyConvert adalah aplikasi yang memungkinkan Anda untuk mengonversi mata uang, dan menghitung jumlah total mata uang setelah pajak dikenakan.
+        \n\nMoneyConvert memberikan kemudahan dalam menghitung nilai tukar mata uang.
+        \n\nAplikasi ini dibuat untuk membantu pengguna dalam melakukan konversi mata uang secara cepat dan mudah.
+        \n\nCopyright © 2024 Rizqy Nurfauzella. All right reserved.</string>
+    <string name="kembali">Kembali</string>
+
+    <string name="konversi_intro">Konversi Mata Uang</string>
+    <string name="label_intro">Opsi Konversi</string>
+    <string name="label_drop">Pilih Opsi Konversi Mata Uang</string>
+
+    <string name="nominal_rupiah">Nominal Rupiah</string>
+    <string name="pajak_intro">Persentase Pajak</string>
+    <string name="pajak_persen">Nominal Persentase Pajak</string>
+    <string name="konversi">Konversi</string>
+
+    <string name="hasil_konversi">Hasil Konversi: %1$s%2$.2f</string>
+
+    <string name="input_invalid">Input tidak valid</string>
+    <string name="reset">Reset</string>
+    <string name="share">Bagikan</string>
+    <string name="share_template">Hasil Konversi: %1$s%2$.2f</string>
+</resources>
