@@ -1,7 +1,18 @@
-Nama    : Rizqy Nurfauzella
+💸 Money Convert
+🌍 Ubah mata uang? Sekejap saja!
+💰 Hitung pajak? Gak pakai ribet!
 
-NIM     : 6706223074
+Money Convert adalah aplikasi konversi mata uang yang cepat, praktis, dan cerdas. Tidak hanya mengubah nilai tukar antar mata uang, aplikasi ini juga langsung menghitung jumlah akhir setelah pajak dikenakan.
 
-Money Convert adalah aplikasi yang memungkinkan Anda untuk mengonversi mata uang, dan menghitung jumlah total mata uang setelah pajak dikenakan.
-Money Convert memberikan kemudahan dalam menghitung nilai tukar mata uang.
-Aplikasi ini dibuat untuk membantu pengguna dalam melakukan konversi mata uang secara cepat dan mudah.
+🚀 Cocok buat traveler, pebisnis, atau siapa pun yang ingin konversi nilai uang tanpa repot!
+
+✨ Fitur utama:
+
+🔄 Konversi real-time antar berbagai mata uang
+
+🧮 Hitung total setelah pajak otomatis
+
+📱 Desain ringan, responsif, dan mudah digunakan
+
+<details> <summary>👀 Klik untuk melihat tampilan aplikasi</summary> <p align="center"> <img src="https://your-image-url.com/money-convert-preview.gif" width="70%" alt="Preview Money Convert" /> </p> </details>
+💡 Gunakan Money Convert dan biarkan kami yang hitung untukmu.
