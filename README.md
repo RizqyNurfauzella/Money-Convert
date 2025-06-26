@@ -1,4 +1,4 @@
-💸 Money Convert
+<h1 align="center"><b>💸 Money Convert</b></h1>
 
 
 🌍 Ubah mata uang? Sekejap saja!
